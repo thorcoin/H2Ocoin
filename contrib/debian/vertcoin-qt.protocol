@@ -1,0 +1,11 @@
+[Protocol]
+exec=h2ocoin-qt '%u'
+protocol=h2ocoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

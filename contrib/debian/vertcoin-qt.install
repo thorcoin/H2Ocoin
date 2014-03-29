@@ -1,0 +1,6 @@
+h2ocoin-qt usr/bin
+share/pixmaps/h2ocoin32.xpm usr/share/pixmaps
+share/pixmaps/h2ocoin16.xpm usr/share/pixmaps
+share/pixmaps/h2ocoin128.png usr/share/pixmaps
+debian/h2ocoin-qt.desktop usr/share/applications
+debian/h2ocoin-qt.protocol usr/share/kde4/services/
